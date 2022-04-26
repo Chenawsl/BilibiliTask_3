@@ -11,7 +11,7 @@ on:
    gollum:
    workflow_dispatch:
    schedule:
-       - cron: '19 15 * * *'
+       - cron: '19 17 * * *'
 
 jobs:
   start:
